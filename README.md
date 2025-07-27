@@ -2,6 +2,7 @@
 
 
 📊 Key Analysis Performed
+
 🔍 Missing value treatment
 
 🧹 Data cleaning (type casting, renaming, dropping unnecessary fields)
@@ -15,11 +16,13 @@
 💰 High-value customer segments
 
 📈 Sample Visualizations
+
 🧑 Gender-wise Spending
 
 🔢 Top 5 Product Categories by Revenue
 
 📌 Summary of Insights
+
 📄 See reports/insights_summary.md for full insights, but highlights include:
 
 💸 Married males in the 26–35 age group are the highest spenders.
